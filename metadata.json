@@ -1,0 +1,6 @@
+{
+  "name": "Simulasi Assessment Perumda Air Minum",
+  "description": "Program kuis dan simulasi interaktif lengkap untuk persiapan Assessment Jabatan Pegawai Perumda Air Minum (Potensi, Kompetensi, Tes Tertulis Bidang, Wawancara, dan Checklist MCU).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
